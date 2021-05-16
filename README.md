@@ -1,2 +1,2 @@
-# GEPSE-
-Grupo de Estudos e Pesquisa em Sistemas Embarcados
+# GEPSE-Embedded-Systems-Study-and-Research-Group
+Embedded Systems Study and Research Group
